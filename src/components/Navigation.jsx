@@ -43,7 +43,7 @@ const handleRemove = () => {
 		<>
 			<header className='flex bg-violet-400 items-center  justify-between pl-6 pr-6'>
 				<Link to='/' className='w-60'>
-					<img src="../../public/Pokédex_logo.png" alt="pokedex_logo"  />
+				<img src="https://www.dropbox.com/s/jh2aosdo0dpvs1k/Pok%C3%A9dex_logo.png?raw=1" alt="Pokédex Logo"/>
 				</Link>
 
 				<form onSubmit={handleSubmit} className= 'flex gap-14' >
